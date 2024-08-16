@@ -17,9 +17,6 @@ prejuizo
 - Styled Components
 - Git
 
-## Como Contibuir
-
- bash
 # Clone o projeto
 $ git clone https://github.com/micas-tsx/SistemaDeFinancas.git
 
