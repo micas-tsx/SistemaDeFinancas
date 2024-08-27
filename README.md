@@ -17,6 +17,12 @@ prejuizo
 - Styled Components
 - Git
 
+## 🚩 Funcionalidades
+
+- Adicionar gastos e lucros
+- Calculo automático dos valores
+- Movimentar pelas datas
+
 # Clone o projeto
 $ git clone https://github.com/micas-tsx/SistemaDeFinancas.git
 
